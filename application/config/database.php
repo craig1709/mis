@@ -30,12 +30,12 @@ $config['default'] = array
 	'connection'    => array
 	(
 		'type'     => 'mysql',
-		'user'     => 'mis',
-		'pass'     => 'mis',
+		'user'     => 'dbuser',
+		'pass'     => 'p@ssw0rd',
 		'host'     => 'localhost',
 		'port'     => FALSE,
 		'socket'   => FALSE,
-		'database' => 'mis'
+		'database' => 'kohana'
 	),
 	'character_set' => 'utf8',
 	'table_prefix'  => '',
