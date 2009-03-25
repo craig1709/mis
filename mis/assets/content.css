@@ -1,0 +1,21 @@
+#content {
+	background-color: #fff;
+	border: 1px solid #262626;
+	margin: 1em;
+	padding: 0 1em 0 0;
+}
+
+#content h2 {
+	padding-bottom: 0;
+}
+
+#content p {
+	font-size: .8em;
+}
+
+#content #footer {
+	clear: both;
+	color: #777;
+	font-size: .75em;
+	text-align: center;
+}
